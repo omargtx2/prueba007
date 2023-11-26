@@ -6,3 +6,6 @@ print("add test008.py python file from local repo - change 3")
 print("add test008.py python file from server repo - change 4")
 
 
+print("add test008.py python file from local repo - change 4")
+
+
